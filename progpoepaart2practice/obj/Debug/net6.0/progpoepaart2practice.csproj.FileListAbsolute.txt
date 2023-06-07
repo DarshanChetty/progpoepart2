@@ -1,0 +1,15 @@
+\\Mac\Home\Desktop\PROG 1B\progpoepaart2practice\progpoepaart2practice\bin\Debug\net6.0\progpoepaart2practice.exe
+\\Mac\Home\Desktop\PROG 1B\progpoepaart2practice\progpoepaart2practice\bin\Debug\net6.0\progpoepaart2practice.deps.json
+\\Mac\Home\Desktop\PROG 1B\progpoepaart2practice\progpoepaart2practice\bin\Debug\net6.0\progpoepaart2practice.runtimeconfig.json
+\\Mac\Home\Desktop\PROG 1B\progpoepaart2practice\progpoepaart2practice\bin\Debug\net6.0\progpoepaart2practice.dll
+\\Mac\Home\Desktop\PROG 1B\progpoepaart2practice\progpoepaart2practice\bin\Debug\net6.0\progpoepaart2practice.pdb
+\\Mac\Home\Desktop\PROG 1B\progpoepaart2practice\progpoepaart2practice\obj\Debug\net6.0\progpoepaart2practice.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\PROG 1B\progpoepaart2practice\progpoepaart2practice\obj\Debug\net6.0\progpoepaart2practice.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\PROG 1B\progpoepaart2practice\progpoepaart2practice\obj\Debug\net6.0\progpoepaart2practice.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\PROG 1B\progpoepaart2practice\progpoepaart2practice\obj\Debug\net6.0\progpoepaart2practice.AssemblyInfo.cs
+\\Mac\Home\Desktop\PROG 1B\progpoepaart2practice\progpoepaart2practice\obj\Debug\net6.0\progpoepaart2practice.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\PROG 1B\progpoepaart2practice\progpoepaart2practice\obj\Debug\net6.0\progpoepaart2practice.dll
+\\Mac\Home\Desktop\PROG 1B\progpoepaart2practice\progpoepaart2practice\obj\Debug\net6.0\refint\progpoepaart2practice.dll
+\\Mac\Home\Desktop\PROG 1B\progpoepaart2practice\progpoepaart2practice\obj\Debug\net6.0\progpoepaart2practice.pdb
+\\Mac\Home\Desktop\PROG 1B\progpoepaart2practice\progpoepaart2practice\obj\Debug\net6.0\progpoepaart2practice.genruntimeconfig.cache
+\\Mac\Home\Desktop\PROG 1B\progpoepaart2practice\progpoepaart2practice\obj\Debug\net6.0\ref\progpoepaart2practice.dll
