@@ -1,6 +1,6 @@
 /*
  * Recipe Finder App
-Version 2.0.0
+Version 4.0.0
 Recipe Finder is a desktop application that allows users to search for recipes based on ingredients they have on hand. It also allows users to filter recipes based on dietary restrictions and create menus for the week.
 Installation Requirements
 Operating System: Windows 7 or higher, macOS 10.12 Sierra or higher, or Linux
